@@ -1,6 +1,5 @@
 # Polaris-Recruitment--ManrajSingh
-Roll no: 251DS019
-Phone no: 9815042919
+
 
 # Python Socket Chat System
 
